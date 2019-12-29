@@ -6,7 +6,8 @@ Out-of-the-box the container also includes dependencies for the GDAL and Tessera
 * French
 * German
 * Italian
-* Spanish.
+* Spanish
+* Russia.
 
 To install more languages simply update the apt-get command to include the package containing the language you required, or include your own custom packs using an ADD command.
 
